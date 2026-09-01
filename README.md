@@ -260,4 +260,3 @@ This is an independent community utility and is not affiliated with Irox Games o
 
 Automation can affect gameplay/progression and may be restricted by game/platform rules. Review the current rules before use.
 
-                                                                                                    
